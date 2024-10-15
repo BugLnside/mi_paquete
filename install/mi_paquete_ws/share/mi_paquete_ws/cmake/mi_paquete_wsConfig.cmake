@@ -1,0 +1,1 @@
+/home/javierre/mi_paquete_ws/build/mi_paquete_ws/ament_cmake_core/mi_paquete_wsConfig.cmake

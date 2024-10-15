@@ -1,0 +1,9 @@
+/home/javierre/mi_paquete_ws/build/mi_paquete_ws/CMakeFiles/uninstall.dir
+/home/javierre/mi_paquete_ws/build/mi_paquete_ws/CMakeFiles/mi_paquete_ws_uninstall.dir
+/home/javierre/mi_paquete_ws/build/mi_paquete_ws/CMakeFiles/test.dir
+/home/javierre/mi_paquete_ws/build/mi_paquete_ws/CMakeFiles/edit_cache.dir
+/home/javierre/mi_paquete_ws/build/mi_paquete_ws/CMakeFiles/rebuild_cache.dir
+/home/javierre/mi_paquete_ws/build/mi_paquete_ws/CMakeFiles/list_install_components.dir
+/home/javierre/mi_paquete_ws/build/mi_paquete_ws/CMakeFiles/install.dir
+/home/javierre/mi_paquete_ws/build/mi_paquete_ws/CMakeFiles/install/local.dir
+/home/javierre/mi_paquete_ws/build/mi_paquete_ws/CMakeFiles/install/strip.dir

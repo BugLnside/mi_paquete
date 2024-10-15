@@ -1,0 +1,17 @@
+/home/javierre/mi_paquete_ws/install/mi_paquete_ws/share/mi_paquete_ws/launch/listener.launch.py
+/home/javierre/mi_paquete_ws/install/mi_paquete_ws/share/mi_paquete_ws/launch/talker.launch.py
+/home/javierre/mi_paquete_ws/install/mi_paquete_ws/share/ament_index/resource_index/package_run_dependencies/mi_paquete_ws
+/home/javierre/mi_paquete_ws/install/mi_paquete_ws/share/ament_index/resource_index/parent_prefix_path/mi_paquete_ws
+/home/javierre/mi_paquete_ws/install/mi_paquete_ws/share/mi_paquete_ws/environment/ament_prefix_path.sh
+/home/javierre/mi_paquete_ws/install/mi_paquete_ws/share/mi_paquete_ws/environment/ament_prefix_path.dsv
+/home/javierre/mi_paquete_ws/install/mi_paquete_ws/share/mi_paquete_ws/environment/path.sh
+/home/javierre/mi_paquete_ws/install/mi_paquete_ws/share/mi_paquete_ws/environment/path.dsv
+/home/javierre/mi_paquete_ws/install/mi_paquete_ws/share/mi_paquete_ws/local_setup.bash
+/home/javierre/mi_paquete_ws/install/mi_paquete_ws/share/mi_paquete_ws/local_setup.sh
+/home/javierre/mi_paquete_ws/install/mi_paquete_ws/share/mi_paquete_ws/local_setup.zsh
+/home/javierre/mi_paquete_ws/install/mi_paquete_ws/share/mi_paquete_ws/local_setup.dsv
+/home/javierre/mi_paquete_ws/install/mi_paquete_ws/share/mi_paquete_ws/package.dsv
+/home/javierre/mi_paquete_ws/install/mi_paquete_ws/share/ament_index/resource_index/packages/mi_paquete_ws
+/home/javierre/mi_paquete_ws/install/mi_paquete_ws/share/mi_paquete_ws/cmake/mi_paquete_wsConfig.cmake
+/home/javierre/mi_paquete_ws/install/mi_paquete_ws/share/mi_paquete_ws/cmake/mi_paquete_wsConfig-version.cmake
+/home/javierre/mi_paquete_ws/install/mi_paquete_ws/share/mi_paquete_ws/package.xml
